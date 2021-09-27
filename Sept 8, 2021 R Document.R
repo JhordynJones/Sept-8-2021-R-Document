@@ -1,4 +1,4 @@
-# Author: Pawar, Date: Sep 8 2021, Purpose: To perform ANOVA test on sample dataset
+# Author: Jhordyn Jones, Date: Sep 8 2021, Purpose: To perform ANOVA test on sample dataset
 
 library(dplyr) 
 
